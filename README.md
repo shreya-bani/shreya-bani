@@ -3,7 +3,7 @@
 Welcome to my GitHub! This space highlights my work in **Data Science, Machine Learning, and AI Engineering**, with projects spanning analytics, NLP, computer vision, and agentic AI systems.  
 
 
-<img align="right" src="<img align="right" src="https://github.com/shreya-bani/shreya-bani/blob/main/Shreya-graduation-pic.jpeg" alt="code" width="280"/>
+<img align="right" src="https://github.com/shreya-bani/shreya-bani/blob/main/Shreya-graduation-pic.jpeg" alt="code" width="280"/>
 
 ## About Me
 - Data Scientist with 3+ years of experience in analytics and AI development  
