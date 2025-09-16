@@ -1,4 +1,5 @@
-# Shreya Banik – Data Science & AI
+# Shreya Banik 
+### AI Technical Intern
 
 Welcome to my GitHub! This space highlights my work in **Data Science, Machine Learning, and AI Engineering**, with projects spanning analytics, NLP, computer vision, and agentic AI systems.  
 
